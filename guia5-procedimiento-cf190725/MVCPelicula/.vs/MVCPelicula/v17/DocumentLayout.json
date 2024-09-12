@@ -1,53 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\flore\\Documents\\DSE\\lab\\guia05\\guia5-procedimiento-cf190725\\MVCPelicula\\",
+  "WorkspaceRootPath": "C:\\Users\\Lucas\\Documents\\DSE\\New folder\\Guias-DSE\\guia5-procedimiento-cf190725\\MVCPelicula\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2587E843-7E24-47EB-BE27-ED830475569C}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\flore\\documents\\dse\\lab\\guia05\\guia5-procedimiento-cf190725\\mvcpelicula\\mvcpelicula\\controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2587E843-7E24-47EB-BE27-ED830475569C}|MVCPelicula\\MVCPelicula.csproj|solutionrelative:mvcpelicula\\controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2587E843-7E24-47EB-BE27-ED830475569C}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\flore\\documents\\dse\\lab\\guia05\\guia5-procedimiento-cf190725\\mvcpelicula\\mvcpelicula\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{2587E843-7E24-47EB-BE27-ED830475569C}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\lucas\\documents\\dse\\new folder\\guias-dse\\guia5-procedimiento-cf190725\\mvcpelicula\\mvcpelicula\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2587E843-7E24-47EB-BE27-ED830475569C}|MVCPelicula\\MVCPelicula.csproj|solutionrelative:mvcpelicula\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2587E843-7E24-47EB-BE27-ED830475569C}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\flore\\documents\\dse\\lab\\guia05\\guia5-procedimiento-cf190725\\mvcpelicula\\mvcpelicula\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2587E843-7E24-47EB-BE27-ED830475569C}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\lucas\\documents\\dse\\new folder\\guias-dse\\guia5-procedimiento-cf190725\\mvcpelicula\\mvcpelicula\\controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2587E843-7E24-47EB-BE27-ED830475569C}|MVCPelicula\\MVCPelicula.csproj|solutionrelative:mvcpelicula\\controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2587E843-7E24-47EB-BE27-ED830475569C}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\lucas\\documents\\dse\\new folder\\guias-dse\\guia5-procedimiento-cf190725\\mvcpelicula\\mvcpelicula\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2587E843-7E24-47EB-BE27-ED830475569C}|MVCPelicula\\MVCPelicula.csproj|solutionrelative:mvcpelicula\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2587E843-7E24-47EB-BE27-ED830475569C}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\flore\\documents\\dse\\lab\\guia05\\guia5-procedimiento-cf190725\\mvcpelicula\\mvcpelicula\\models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2587E843-7E24-47EB-BE27-ED830475569C}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\lucas\\documents\\dse\\new folder\\guias-dse\\guia5-procedimiento-cf190725\\mvcpelicula\\mvcpelicula\\models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2587E843-7E24-47EB-BE27-ED830475569C}|MVCPelicula\\MVCPelicula.csproj|solutionrelative:mvcpelicula\\models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2587E843-7E24-47EB-BE27-ED830475569C}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\flore\\documents\\dse\\lab\\guia05\\guia5-procedimiento-cf190725\\mvcpelicula\\mvcpelicula\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2587E843-7E24-47EB-BE27-ED830475569C}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\lucas\\documents\\dse\\new folder\\guias-dse\\guia5-procedimiento-cf190725\\mvcpelicula\\mvcpelicula\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2587E843-7E24-47EB-BE27-ED830475569C}|MVCPelicula\\MVCPelicula.csproj|solutionrelative:mvcpelicula\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2587E843-7E24-47EB-BE27-ED830475569C}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\flore\\documents\\dse\\lab\\guia05\\guia5-procedimiento-cf190725\\mvcpelicula\\mvcpelicula\\views\\peliculas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2587E843-7E24-47EB-BE27-ED830475569C}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\lucas\\documents\\dse\\new folder\\guias-dse\\guia5-procedimiento-cf190725\\mvcpelicula\\mvcpelicula\\views\\peliculas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2587E843-7E24-47EB-BE27-ED830475569C}|MVCPelicula\\MVCPelicula.csproj|solutionrelative:mvcpelicula\\views\\peliculas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2587E843-7E24-47EB-BE27-ED830475569C}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\flore\\documents\\dse\\lab\\guia05\\guia5-procedimiento-cf190725\\mvcpelicula\\mvcpelicula\\models\\peliculasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2587E843-7E24-47EB-BE27-ED830475569C}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\lucas\\documents\\dse\\new folder\\guias-dse\\guia5-procedimiento-cf190725\\mvcpelicula\\mvcpelicula\\models\\peliculasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2587E843-7E24-47EB-BE27-ED830475569C}|MVCPelicula\\MVCPelicula.csproj|solutionrelative:mvcpelicula\\models\\peliculasdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2587E843-7E24-47EB-BE27-ED830475569C}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\flore\\documents\\dse\\lab\\guia05\\guia5-procedimiento-cf190725\\mvcpelicula\\mvcpelicula\\models\\seeds\\peliculaseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2587E843-7E24-47EB-BE27-ED830475569C}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\lucas\\documents\\dse\\new folder\\guias-dse\\guia5-procedimiento-cf190725\\mvcpelicula\\mvcpelicula\\models\\seeds\\peliculaseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2587E843-7E24-47EB-BE27-ED830475569C}|MVCPelicula\\MVCPelicula.csproj|solutionrelative:mvcpelicula\\models\\seeds\\peliculaseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2587E843-7E24-47EB-BE27-ED830475569C}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\flore\\documents\\dse\\lab\\guia05\\guia5-procedimiento-cf190725\\mvcpelicula\\mvcpelicula\\models\\seeds\\generoseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2587E843-7E24-47EB-BE27-ED830475569C}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\lucas\\documents\\dse\\new folder\\guias-dse\\guia5-procedimiento-cf190725\\mvcpelicula\\mvcpelicula\\models\\seeds\\generoseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2587E843-7E24-47EB-BE27-ED830475569C}|MVCPelicula\\MVCPelicula.csproj|solutionrelative:mvcpelicula\\models\\seeds\\generoseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2587E843-7E24-47EB-BE27-ED830475569C}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\flore\\documents\\dse\\lab\\guia05\\guia5-procedimiento-cf190725\\mvcpelicula\\mvcpelicula\\controllers\\generoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2587E843-7E24-47EB-BE27-ED830475569C}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\lucas\\documents\\dse\\new folder\\guias-dse\\guia5-procedimiento-cf190725\\mvcpelicula\\mvcpelicula\\controllers\\generoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2587E843-7E24-47EB-BE27-ED830475569C}|MVCPelicula\\MVCPelicula.csproj|solutionrelative:mvcpelicula\\controllers\\generoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2587E843-7E24-47EB-BE27-ED830475569C}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\flore\\documents\\dse\\lab\\guia05\\guia5-procedimiento-cf190725\\mvcpelicula\\mvcpelicula\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2587E843-7E24-47EB-BE27-ED830475569C}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\lucas\\documents\\dse\\new folder\\guias-dse\\guia5-procedimiento-cf190725\\mvcpelicula\\mvcpelicula\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2587E843-7E24-47EB-BE27-ED830475569C}|MVCPelicula\\MVCPelicula.csproj|solutionrelative:mvcpelicula\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2587E843-7E24-47EB-BE27-ED830475569C}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\flore\\documents\\dse\\lab\\guia05\\guia5-procedimiento-cf190725\\mvcpelicula\\mvcpelicula\\migrations\\20240716000802_migracion inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2587E843-7E24-47EB-BE27-ED830475569C}|MVCPelicula\\MVCPelicula.csproj|c:\\users\\lucas\\documents\\dse\\new folder\\guias-dse\\guia5-procedimiento-cf190725\\mvcpelicula\\mvcpelicula\\migrations\\20240716000802_migracion inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2587E843-7E24-47EB-BE27-ED830475569C}|MVCPelicula\\MVCPelicula.csproj|solutionrelative:mvcpelicula\\migrations\\20240716000802_migracion inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -58,15 +58,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "PeliculaSeed.cs",
-              "DocumentMoniker": "C:\\Users\\flore\\Documents\\DSE\\lab\\guia05\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Models\\Seeds\\PeliculaSeed.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\DSE\\New folder\\Guias-DSE\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Models\\Seeds\\PeliculaSeed.cs",
               "RelativeDocumentMoniker": "MVCPelicula\\Models\\Seeds\\PeliculaSeed.cs",
-              "ToolTip": "C:\\Users\\flore\\Documents\\DSE\\lab\\guia05\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Models\\Seeds\\PeliculaSeed.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\DSE\\New folder\\Guias-DSE\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Models\\Seeds\\PeliculaSeed.cs",
               "RelativeToolTip": "MVCPelicula\\Models\\Seeds\\PeliculaSeed.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAAACgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -76,9 +76,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Genero.cs",
-              "DocumentMoniker": "C:\\Users\\flore\\Documents\\DSE\\lab\\guia05\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Models\\Genero.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\DSE\\New folder\\Guias-DSE\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Models\\Genero.cs",
               "RelativeDocumentMoniker": "MVCPelicula\\Models\\Genero.cs",
-              "ToolTip": "C:\\Users\\flore\\Documents\\DSE\\lab\\guia05\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Models\\Genero.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\DSE\\New folder\\Guias-DSE\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Models\\Genero.cs",
               "RelativeToolTip": "MVCPelicula\\Models\\Genero.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -86,26 +86,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\flore\\Documents\\DSE\\lab\\guia05\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\DSE\\New folder\\Guias-DSE\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\appsettings.json",
               "RelativeDocumentMoniker": "MVCPelicula\\appsettings.json",
-              "ToolTip": "C:\\Users\\flore\\Documents\\DSE\\lab\\guia05\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\DSE\\New folder\\Guias-DSE\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\appsettings.json",
               "RelativeToolTip": "MVCPelicula\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAB6AAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-07-09T04:07:45.968Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PeliculasController.cs",
-              "DocumentMoniker": "C:\\Users\\flore\\Documents\\DSE\\lab\\guia05\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Controllers\\PeliculasController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\DSE\\New folder\\Guias-DSE\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Controllers\\PeliculasController.cs",
               "RelativeDocumentMoniker": "MVCPelicula\\Controllers\\PeliculasController.cs",
-              "ToolTip": "C:\\Users\\flore\\Documents\\DSE\\lab\\guia05\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Controllers\\PeliculasController.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\DSE\\New folder\\Guias-DSE\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Controllers\\PeliculasController.cs",
               "RelativeToolTip": "MVCPelicula\\Controllers\\PeliculasController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-09T05:21:18.238Z",
               "EditorCaption": ""
@@ -114,9 +114,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\flore\\Documents\\DSE\\lab\\guia05\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Views\\Peliculas\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\DSE\\New folder\\Guias-DSE\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Views\\Peliculas\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCPelicula\\Views\\Peliculas\\Index.cshtml",
-              "ToolTip": "C:\\Users\\flore\\Documents\\DSE\\lab\\guia05\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Views\\Peliculas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\DSE\\New folder\\Guias-DSE\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Views\\Peliculas\\Index.cshtml",
               "RelativeToolTip": "MVCPelicula\\Views\\Peliculas\\Index.cshtml",
               "ViewState": "AQIAADAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -126,9 +126,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Pelicula.cs",
-              "DocumentMoniker": "C:\\Users\\flore\\Documents\\DSE\\lab\\guia05\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Models\\Pelicula.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\DSE\\New folder\\Guias-DSE\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Models\\Pelicula.cs",
               "RelativeDocumentMoniker": "MVCPelicula\\Models\\Pelicula.cs",
-              "ToolTip": "C:\\Users\\flore\\Documents\\DSE\\lab\\guia05\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Models\\Pelicula.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\DSE\\New folder\\Guias-DSE\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Models\\Pelicula.cs",
               "RelativeToolTip": "MVCPelicula\\Models\\Pelicula.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAAAB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -138,9 +138,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "GeneroSeed.cs",
-              "DocumentMoniker": "C:\\Users\\flore\\Documents\\DSE\\lab\\guia05\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Models\\Seeds\\GeneroSeed.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\DSE\\New folder\\Guias-DSE\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Models\\Seeds\\GeneroSeed.cs",
               "RelativeDocumentMoniker": "MVCPelicula\\Models\\Seeds\\GeneroSeed.cs",
-              "ToolTip": "C:\\Users\\flore\\Documents\\DSE\\lab\\guia05\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Models\\Seeds\\GeneroSeed.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\DSE\\New folder\\Guias-DSE\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Models\\Seeds\\GeneroSeed.cs",
               "RelativeToolTip": "MVCPelicula\\Models\\Seeds\\GeneroSeed.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -150,9 +150,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "20240716000802_Migracion Inicial.cs",
-              "DocumentMoniker": "C:\\Users\\flore\\Documents\\DSE\\lab\\guia05\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Migrations\\20240716000802_Migracion Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\DSE\\New folder\\Guias-DSE\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Migrations\\20240716000802_Migracion Inicial.cs",
               "RelativeDocumentMoniker": "MVCPelicula\\Migrations\\20240716000802_Migracion Inicial.cs",
-              "ToolTip": "C:\\Users\\flore\\Documents\\DSE\\lab\\guia05\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Migrations\\20240716000802_Migracion Inicial.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\DSE\\New folder\\Guias-DSE\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Migrations\\20240716000802_Migracion Inicial.cs",
               "RelativeToolTip": "MVCPelicula\\Migrations\\20240716000802_Migracion Inicial.cs",
               "ViewState": "AQIAAFkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -162,22 +162,21 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\flore\\Documents\\DSE\\lab\\guia05\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\DSE\\New folder\\Guias-DSE\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Program.cs",
               "RelativeDocumentMoniker": "MVCPelicula\\Program.cs",
-              "ToolTip": "C:\\Users\\flore\\Documents\\DSE\\lab\\guia05\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\DSE\\New folder\\Guias-DSE\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Program.cs",
               "RelativeToolTip": "MVCPelicula\\Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T02:36:15.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T02:36:15.302Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "PeliculasDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\flore\\Documents\\DSE\\lab\\guia05\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Models\\PeliculasDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\DSE\\New folder\\Guias-DSE\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Models\\PeliculasDBContext.cs",
               "RelativeDocumentMoniker": "MVCPelicula\\Models\\PeliculasDBContext.cs",
-              "ToolTip": "C:\\Users\\flore\\Documents\\DSE\\lab\\guia05\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Models\\PeliculasDBContext.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\DSE\\New folder\\Guias-DSE\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Models\\PeliculasDBContext.cs",
               "RelativeToolTip": "MVCPelicula\\Models\\PeliculasDBContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -187,9 +186,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "GenerosController.cs",
-              "DocumentMoniker": "C:\\Users\\flore\\Documents\\DSE\\lab\\guia05\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Controllers\\GenerosController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\DSE\\New folder\\Guias-DSE\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Controllers\\GenerosController.cs",
               "RelativeDocumentMoniker": "MVCPelicula\\Controllers\\GenerosController.cs",
-              "ToolTip": "C:\\Users\\flore\\Documents\\DSE\\lab\\guia05\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Controllers\\GenerosController.cs",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\DSE\\New folder\\Guias-DSE\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Controllers\\GenerosController.cs",
               "RelativeToolTip": "MVCPelicula\\Controllers\\GenerosController.cs",
               "ViewState": "AQIAAEMAAAAAAAAAAAAcwDkAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -199,23 +198,13 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\flore\\Documents\\DSE\\lab\\guia05\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\DSE\\New folder\\Guias-DSE\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MVCPelicula\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\flore\\Documents\\DSE\\lab\\guia05\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lucas\\Documents\\DSE\\New folder\\Guias-DSE\\guia5-procedimiento-cf190725\\MVCPelicula\\MVCPelicula\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "MVCPelicula\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-09T05:24:19.102Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 833,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\APIGATEWAY_cf1907256.props" />
+</Project>

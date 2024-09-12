@@ -27,10 +27,6 @@
       "RelativeMoniker": "D:0:0:{A40DA230-0371-43B5-A4D7-A6C8E08254BD}|LibroAPI\\LibroAPI.csproj|solutionrelative:libroapi\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lucas\\Documents\\DSE\\New folder\\Guias-DSE\\guia7-cf190725\\APIGATEWAY_cf1907256\\LibroAPI\\Migrations\\20240902025357_Migraci\u00F3n inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibroAPI\\Migrations\\20240902025357_Migraci\u00F3n inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5CED57DD-82A2-4FEF-836A-47D94422EF39}|ProductoAPI\\ProductoAPI.csproj|c:\\users\\lucas\\documents\\dse\\new folder\\guias-dse\\guia7-cf190725\\apigateway_cf1907256\\productoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CED57DD-82A2-4FEF-836A-47D94422EF39}|ProductoAPI\\ProductoAPI.csproj|solutionrelative:productoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -57,6 +53,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{5CED57DD-82A2-4FEF-836A-47D94422EF39}|ProductoAPI\\ProductoAPI.csproj|c:\\users\\lucas\\documents\\dse\\new folder\\guias-dse\\guia7-cf190725\\apigateway_cf1907256\\productoapi\\migrations\\20240901230646_migraci\u00F3n inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CED57DD-82A2-4FEF-836A-47D94422EF39}|ProductoAPI\\ProductoAPI.csproj|solutionrelative:productoapi\\migrations\\20240901230646_migraci\u00F3n inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40DA230-0371-43B5-A4D7-A6C8E08254BD}|LibroAPI\\LibroAPI.csproj|c:\\users\\lucas\\documents\\dse\\new folder\\guias-dse\\guia7-cf190725\\apigateway_cf1907256\\libroapi\\migrations\\20240902025357_migraci\u00F3n inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40DA230-0371-43B5-A4D7-A6C8E08254BD}|LibroAPI\\LibroAPI.csproj|solutionrelative:libroapi\\migrations\\20240902025357_migraci\u00F3n inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -91,12 +91,11 @@
               "RelativeToolTip": "LibroAPI\\Controllers\\LibroController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T02:56:59.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T02:56:59.598Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "20240902025357_Migraci\u00F3n inicial.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\DSE\\New folder\\Guias-DSE\\guia7-cf190725\\APIGATEWAY_cf1907256\\LibroAPI\\Migrations\\20240902025357_Migraci\u00F3n inicial.cs",
               "RelativeDocumentMoniker": "LibroAPI\\Migrations\\20240902025357_Migraci\u00F3n inicial.cs",
@@ -104,8 +103,7 @@
               "RelativeToolTip": "LibroAPI\\Migrations\\20240902025357_Migraci\u00F3n inicial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T02:53:57.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T02:53:57.675Z"
             },
             {
               "$type": "Document",
@@ -117,8 +115,7 @@
               "RelativeToolTip": "LibroAPI\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T02:52:26.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T02:52:26.247Z"
             },
             {
               "$type": "Document",
@@ -130,8 +127,7 @@
               "RelativeToolTip": "LibroAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-02T02:51:42.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T02:51:42.712Z"
             },
             {
               "$type": "Document",
@@ -143,8 +139,7 @@
               "RelativeToolTip": "LibroAPI\\Models\\LibroContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T02:43:03.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T02:43:03.635Z"
             },
             {
               "$type": "Document",
@@ -156,12 +151,11 @@
               "RelativeToolTip": "LibroAPI\\Models\\Libro.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T02:30:51.371Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T02:30:51.371Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "ProductoController.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\DSE\\New folder\\Guias-DSE\\guia7-cf190725\\APIGATEWAY_cf1907256\\ProductoAPI\\Controllers\\ProductoController.cs",
               "RelativeDocumentMoniker": "ProductoAPI\\Controllers\\ProductoController.cs",
@@ -169,12 +163,11 @@
               "RelativeToolTip": "ProductoAPI\\Controllers\\ProductoController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T02:21:02.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T02:21:02.203Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "20240901230646_Migraci\u00F3n inicial.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\DSE\\New folder\\Guias-DSE\\guia7-cf190725\\APIGATEWAY_cf1907256\\ProductoAPI\\Migrations\\20240901230646_Migraci\u00F3n inicial.cs",
               "RelativeDocumentMoniker": "ProductoAPI\\Migrations\\20240901230646_Migraci\u00F3n inicial.cs",
@@ -182,12 +175,11 @@
               "RelativeToolTip": "ProductoAPI\\Migrations\\20240901230646_Migraci\u00F3n inicial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T23:06:46.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T23:06:46.217Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\DSE\\New folder\\Guias-DSE\\guia7-cf190725\\APIGATEWAY_cf1907256\\ProductoAPI\\Program.cs",
               "RelativeDocumentMoniker": "ProductoAPI\\Program.cs",
@@ -195,12 +187,11 @@
               "RelativeToolTip": "ProductoAPI\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T22:52:26.663Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T22:52:26.663Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\DSE\\New folder\\Guias-DSE\\guia7-cf190725\\APIGATEWAY_cf1907256\\ProductoAPI\\appsettings.json",
               "RelativeDocumentMoniker": "ProductoAPI\\appsettings.json",
@@ -208,12 +199,11 @@
               "RelativeToolTip": "ProductoAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-01T22:47:33.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T22:47:33.123Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "ProductoContext.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\DSE\\New folder\\Guias-DSE\\guia7-cf190725\\APIGATEWAY_cf1907256\\ProductoAPI\\Models\\ProductoContext.cs",
               "RelativeDocumentMoniker": "ProductoAPI\\Models\\ProductoContext.cs",
@@ -221,12 +211,11 @@
               "RelativeToolTip": "ProductoAPI\\Models\\ProductoContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T17:36:48.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T17:36:48.83Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "LibroAPI.csproj",
               "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\DSE\\New folder\\Guias-DSE\\guia7-cf190725\\APIGATEWAY_cf1907256\\LibroAPI\\LibroAPI.csproj",
               "RelativeDocumentMoniker": "LibroAPI\\LibroAPI.csproj",
@@ -234,12 +223,11 @@
               "RelativeToolTip": "LibroAPI\\LibroAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-02T02:30:13.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T02:30:13.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\Lucas\\Documents\\DSE\\New folder\\Guias-DSE\\guia7-cf190725\\APIGATEWAY_cf1907256\\ProductoAPI\\Models\\Producto.cs",
               "RelativeDocumentMoniker": "ProductoAPI\\Models\\Producto.cs",
@@ -247,8 +235,7 @@
               "RelativeToolTip": "ProductoAPI\\Models\\Producto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwAgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T17:14:57.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-01T17:14:57.884Z"
             }
           ]
         }
