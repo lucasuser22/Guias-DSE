@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0syO4DQ5GiI=",
+  "dgSpecHash": "afWCOtO+FGc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lucas\\Documents\\DSE\\guia5-cf190725\\DockerWebApi\\DockerWebApi\\DockerWebApi.csproj",
+  "projectFilePath": "C:\\Users\\Lucas\\Documents\\DSE\\New folder\\Guias-DSE\\guia6-cf190725\\DockerWebApi\\DockerWebApi\\DockerWebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
